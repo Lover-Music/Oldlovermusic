@@ -10,11 +10,11 @@ lyricsgenius
 motor
 pillow
 psutil
-py-tgcalls==0.8.6
+py-tgcalls==0.9.7
 pykeyboard
-pyrogram==1.4.16
+pyrogram==2.0.106
 python-dotenv
-pyyaml==5.3.1
+pyyaml==6.0.1
 requests
 speedtest-cli
 spotipy
@@ -23,3 +23,4 @@ numpy
 git+https://github.com/joetats/youtube_search@master
 git+https://github.com/alexmercerind/youtube-search-python@main
 yt-dlp
+heroku3
